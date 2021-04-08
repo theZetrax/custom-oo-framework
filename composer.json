@@ -1,0 +1,14 @@
+{
+    "name": "zetrax/custom-oo-framework",
+    "description": "A custom PHP framework from scratch.",
+    "type": "project",
+    "license": "apache-2.0",
+    "authors": [
+        {
+            "name": "Zetrax",
+            "email": "34830529+theZetrax@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
